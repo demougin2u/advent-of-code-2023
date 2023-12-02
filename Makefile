@@ -5,3 +5,6 @@ help:
 
 day1: ## Run Day1
 	node 01/index.js
+
+day2: ## Run Day1
+	node 02/index.js
