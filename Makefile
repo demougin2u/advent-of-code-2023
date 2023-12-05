@@ -11,3 +11,6 @@ day2: ## Run Day2
 
 day3: ## Run Day3
 	node 03/index.js
+
+day4: ## Run Day4
+	node 04/index.js
